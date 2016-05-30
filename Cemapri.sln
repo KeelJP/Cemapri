@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CemapriDominio", "CemapriDominio\CemapriDominio.csproj", "{B1ABAE4B-4DBB-4779-BC6E-55D0A983207F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CemapriWeb", "CemapriWeb\CemapriWeb.csproj", "{CA9EF3DD-0989-4170-91DF-D4FCD425F5B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CemapriTest", "CemapriTest\CemapriTest.csproj", "{A8636913-8BF3-44F3-B499-63FCD77AA9BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1ABAE4B-4DBB-4779-BC6E-55D0A983207F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1ABAE4B-4DBB-4779-BC6E-55D0A983207F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1ABAE4B-4DBB-4779-BC6E-55D0A983207F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1ABAE4B-4DBB-4779-BC6E-55D0A983207F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9EF3DD-0989-4170-91DF-D4FCD425F5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9EF3DD-0989-4170-91DF-D4FCD425F5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9EF3DD-0989-4170-91DF-D4FCD425F5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9EF3DD-0989-4170-91DF-D4FCD425F5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8636913-8BF3-44F3-B499-63FCD77AA9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8636913-8BF3-44F3-B499-63FCD77AA9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8636913-8BF3-44F3-B499-63FCD77AA9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8636913-8BF3-44F3-B499-63FCD77AA9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
